@@ -11,23 +11,23 @@ const filterData = [
         icon: star
     },
     {
-        title: 'FUNNY',
-        color: '#7cc163',
-        number: '110',
+        title: 'AWKWARD',
+        color: '#ddb6b8',
+        number: '245',
         icon: star
 
     },
     {
-        title: 'FUNNY',
-        color: '#7cc163',
-        number: '110',
+        title: 'ADULT',
+        color: '#b4cf5c',
+        number: '12',
         icon: star
 
     },
     {
-        title: 'FUNNY',
-        color: '#7cc163',
-        number: '110',
+        title: 'TECH',
+        color: '#d9a84a',
+        number: '170',
         icon: star
 
     },

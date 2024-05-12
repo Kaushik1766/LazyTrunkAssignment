@@ -29,10 +29,9 @@ function Play({ navigation }) {
 
                     </Pressable>
                     <Pressable onPress={() => {
-                        navigation.navigate('Settings')
                     }}
                         style={{}}>
-                        <Image source={require('../assets/setting.png')} style={{
+                        <Image source={require('../assets/iIcon.png')} style={{
                             height: 30,
                             width: 30,
                             tintColor: 'white',

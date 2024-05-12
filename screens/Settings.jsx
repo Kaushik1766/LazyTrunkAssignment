@@ -48,7 +48,7 @@ function Settings() {
                         height: 30,
                         width: 30,
                         tintColor: 'white'
-                    }} source={require('../assets/sound.png')} />
+                    }} source={require('../assets/iIcon.png')} />
                 </Pressable>
             </View>
 
